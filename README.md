@@ -391,7 +391,6 @@
         }
     </style>
 </head>
-<body>
     <!-- Skip to Main Content Link -->
     <a href="#main-content" class="skip-link">Skip to Main Content</a>
     
@@ -517,5 +516,4 @@
             <p>&copy; 2023 Qt-229 GitHub Pages. All rights reserved.</p>
         </div>
     </footer>
-</body>
 </html>
